@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
